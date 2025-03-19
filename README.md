@@ -11,7 +11,7 @@ GPA: **3.5/4**
 ### Costa Rican Household Poverty Level Prediction (Personal Project)
 > **When:** June - July 2023\
 > **Where:** [Here](https://www.kaggle.com/code/ngocnguyen2912/costarica-seminar13)\
-> **What is this project:** This is a competition organized on Kaggle to predicts the poverty level of households in Costa Rica to determine which households need social welfare support.
+> **What is this project:** This is a competition organized on Kaggle to predicts the poverty level of households in Costa Rica to determine which households need social welfare support.\
 > **Tools and Languages:** Jupyter Notebook, MarkDown, Python\
 > **Tasks in the project:**
 > > - Exploring and preprocessing data.
@@ -45,7 +45,15 @@ GPA: **3.5/4**
 > * **DataScience Libraries:** Numpy, Pandas, Matplotlib, Seaborn...
 > * **MachineLearning:** TensorFlow, Scikit-learn
 
-## Course
+## Soft Skills
+> * **English**
+> * **Problem Solving**
+> * **Flexible and Adaptable**
+> * **Teamwork**
+> * **Communication**
+> * **Time Management**
+
+## Courses
 [Applied Data Science with Python](https://www.coursera.org/account/accomplishments/specialization/RU76F8Y4JTAQ)\
 [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/6HCR8HGLYSM4)\
 [Python Project for Data Science](https://www.coursera.org/account/accomplishments/verify/NGJ8BWL7NYCT)\
@@ -56,4 +64,4 @@ GPA: **3.5/4**
 [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/verify/MUCR6CT2SC3L)\
 [Analyzing Social Media Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/d2e06af24b6331b3251054ed4e994d4d9503fafb)\
 [Intermediate Network Analysis in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/beeb7540289b515590b5fa7e1e337dd4ad2bed29)\
-[Introduction to Network Analysis in Python](https://app.datacamp.com/learn/courses/introduction-to-network-analysis-in-python)\
+[Introduction to Network Analysis in Python](https://app.datacamp.com/learn/courses/introduction-to-network-analysis-in-python)
