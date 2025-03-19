@@ -14,19 +14,19 @@ GPA: **3.5/4**
 
 ## Projects
 ### Costa Rican Household Poverty Level Prediction (Personal Project)
-> **When:** \
+> **When:** June - July 2023\
 > **Where:** [Here](https://www.kaggle.com/code/ngocnguyen2912/costarica-seminar13)\
-> **What is this project:**\
-> **Tools and Languages:**\
+> **What is this project:** This is a competition organized on Kaggle to predicts the poverty level of households in Costa Rica to determine which households need social welfare support.
+> **Tools and Languages:** Jupyter Notebook, MarkDown, Python\
 > **Tasks in the project:**
 > > - Exploring and preprocessing data.
 > > - Modeling and evaluation.
 > > - Making outcome predictions.
 
 ### Superstore Project
-> **When:**\
+> **When:** May - July 2023\
 > **Where:** [Here](https://github.com/NgocNguyen2912/DVFP_clone)\
-> **What is this project:**\
+> **What is this project:** This is a project about analyzing and visualizing superstore data.\
 > **Tools and Languages:**  Jupyter Notebook, Tableau, MarkDown, Python\
 > **Tasks in the project:**
 > > - Preprocessing and exploring superstore data.
@@ -34,10 +34,10 @@ GPA: **3.5/4**
 > > - Summary of dashboards on Tableau.
 
 ### Movie Recommendation System Project
-> **When:** \
+> **When:** April - June 2024\
 > **Where:** [Here](https://github.com/nguyenthichaungoc/Recommender_System_Project) \
-> **What is this project:** \
-> **Tools and Languages:** \
+> **What is this project:** This is a movie recommendation system built based on a data science process.\
+> **Tools and Languages:** : Jupyter Notebook, Python\
 > **Tasks in the project:**
 > > - Preprocessing and exploring data.
 > > - Performing feature extraction from data.
