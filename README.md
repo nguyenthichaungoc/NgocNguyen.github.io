@@ -1,8 +1,3 @@
-# NgocNguyen.github.io
-NgocNguyen.github.io/portfolio
-
-# NGUYEN THI CHAU NGOC
-
 ## About me
 I am a recent graduate with a degree in Computer Science – Data Science from the University of Natural Sciences in Ho Chi Minh City. My passion for data drives my desire to take on new challenges in this dynamic field. I am currently seeking opportunities where I can apply my academic knowledge, enhance my problem-solving skills, and gain hands-on experience in real-world and professional projects related to the data field.
 My career aspiration is to become an expert in data analytics or data science, contributing to organizations by developing effective data-driven solutions and strategies.
@@ -51,7 +46,14 @@ GPA: **3.5/4**
 > * **MachineLearning:** TensorFlow, Scikit-learn\
 
 ## Course
-
-
-
-
+[Applied Data Science with Python](https://www.coursera.org/account/accomplishments/specialization/RU76F8Y4JTAQ)
+[Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/6HCR8HGLYSM4)
+[Python Project for Data Science](https://www.coursera.org/account/accomplishments/verify/NGJ8BWL7NYCT)
+[Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/4959ZVXKYJ3X)
+[Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/48FTLZ4YXLQY)
+[Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/TR6EZ4BR92NQ)
+[Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/8BT9SAAY3PXQ)
+[Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/verify/MUCR6CT2SC3L)
+[Analyzing Social Media Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/d2e06af24b6331b3251054ed4e994d4d9503fafb)
+[Intermediate Network Analysis in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/beeb7540289b515590b5fa7e1e337dd4ad2bed29)
+[Introduction to Network Analysis in Python](https://app.datacamp.com/learn/courses/introduction-to-network-analysis-in-python)
